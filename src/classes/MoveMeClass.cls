@@ -10,5 +10,5 @@ public with sharing class MoveMeClass
 	
 	//Test deployment with trigger
 	
-	//Test deployment with updated Trigger
+	//Test deployment with updated Trigger V3
 }
