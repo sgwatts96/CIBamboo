@@ -9,4 +9,6 @@ public with sharing class MoveMeClass
 	//Get bamboo to move this class
 	
 	//Test deployment with trigger
+	
+	//Test deployment with updated Trigger
 }
