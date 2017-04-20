@@ -7,4 +7,6 @@ public with sharing class MoveMeClass
 	//Change this line and watch Bamboo deploy it to another environment.
 	
 	//Get bamboo to move this class
+	
+	//Test deployment with trigger
 }
